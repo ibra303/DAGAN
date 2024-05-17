@@ -19,12 +19,16 @@ Note: Training can take a significant amount of time. We recommend using a V100 
 
 # Trainig results
 * Epoch 3
+  
  ![image](https://github.com/ibra303/DAGAN/assets/94124916/e7caffa2-f8b7-450a-bc86-f4093680b6a6)
 * Epoch 8
+  
  ![image](https://github.com/ibra303/DAGAN/assets/94124916/50e49058-83cd-402e-95bb-16ac7656f341)
 * Epoch 14
+  
  ![image](https://github.com/ibra303/DAGAN/assets/94124916/4cd48fba-9e1c-42d1-b848-ae0e235dfdfb)
 * Epoch 19
+  
  ![image](https://github.com/ibra303/DAGAN/assets/94124916/fd030d3f-1a7b-4335-8c27-2b3b3638a15d)
 
 
