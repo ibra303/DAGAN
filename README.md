@@ -4,9 +4,9 @@ This repository contains materials for a seminar on the 2017 paper "Data Augment
 
 # Contents
 * Offical paper and seminar slides
-* Scripts for testing the DAGAN model on the OMNIGLOT dataset
+* Script for training the DAGAN model on the OMNIGLOT dataset
 * Instructions for setting up the environment and running the experiment
-* Results and analysis of the model's performance
+* Results of the model's performance
   
 
 # Setup and running the training
